@@ -1,0 +1,14 @@
+C:\Users\UPN\Desktop\ss\Nueva carpeta\ejericcio3\bin\Debug\net6.0\ejericcio3.exe
+C:\Users\UPN\Desktop\ss\Nueva carpeta\ejericcio3\bin\Debug\net6.0\ejericcio3.deps.json
+C:\Users\UPN\Desktop\ss\Nueva carpeta\ejericcio3\bin\Debug\net6.0\ejericcio3.runtimeconfig.json
+C:\Users\UPN\Desktop\ss\Nueva carpeta\ejericcio3\bin\Debug\net6.0\ejericcio3.dll
+C:\Users\UPN\Desktop\ss\Nueva carpeta\ejericcio3\bin\Debug\net6.0\ejericcio3.pdb
+C:\Users\UPN\Desktop\ss\Nueva carpeta\ejericcio3\obj\Debug\net6.0\ejericcio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\Desktop\ss\Nueva carpeta\ejericcio3\obj\Debug\net6.0\ejericcio3.AssemblyInfoInputs.cache
+C:\Users\UPN\Desktop\ss\Nueva carpeta\ejericcio3\obj\Debug\net6.0\ejericcio3.AssemblyInfo.cs
+C:\Users\UPN\Desktop\ss\Nueva carpeta\ejericcio3\obj\Debug\net6.0\ejericcio3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ss\Nueva carpeta\ejericcio3\obj\Debug\net6.0\ejericcio3.dll
+C:\Users\UPN\Desktop\ss\Nueva carpeta\ejericcio3\obj\Debug\net6.0\refint\ejericcio3.dll
+C:\Users\UPN\Desktop\ss\Nueva carpeta\ejericcio3\obj\Debug\net6.0\ejericcio3.pdb
+C:\Users\UPN\Desktop\ss\Nueva carpeta\ejericcio3\obj\Debug\net6.0\ejericcio3.genruntimeconfig.cache
+C:\Users\UPN\Desktop\ss\Nueva carpeta\ejericcio3\obj\Debug\net6.0\ref\ejericcio3.dll
